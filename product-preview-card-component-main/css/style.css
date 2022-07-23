@@ -54,6 +54,7 @@ h1>span{
     color: hsl(158, 36%, 37%);
     font-weight: 700;
     margin-right: 10px;
+    font-family: Montserrat;
 }
 
 h4{
@@ -71,6 +72,8 @@ p{
   line-height: 20px;
   margin-top: 20px;
   margin-bottom: 20px;
+  font-weight: 400;
+  font-family: Montserrat;
 }
 /* Mobile: 375px
 Desktop: 1440px */

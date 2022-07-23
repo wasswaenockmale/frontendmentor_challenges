@@ -1,2 +1,93 @@
 .attribution { font-size: 11px; text-align: center; }
 .attribution a { color: hsl(228, 45%, 44%); }
+body{
+    background-color: hsl(217, 54%, 11%);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+main{
+    font-family: 'Outfit', sans-serif;
+    background-color: hsl(216, 50%, 16%);
+    border-radius: 15px;
+    width: 350px;
+    height: 600px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    /*Inserting a box-shadow to the card.*/
+}
+
+.image-equilibrium{
+    width: 300px;
+    height: 300px;
+    border-radius: 12px;
+}
+
+.content{
+    width: 300px;
+    padding: 3px;
+}
+
+.avatar-image{
+    width: 30px;
+    height: 30px;
+    border: 1px solid white;
+    border-radius: 50%;
+    margin-right: 15px;
+}
+
+h2{
+    color: white;
+    font-weight: 600;
+}
+
+h3{
+    color:hsl(178, 100%, 50%);
+    display: flex;
+    align-items: center;
+}
+
+h3>img{
+    margin-right: 6px;
+}
+
+.secondlast-element{
+    display: flex;
+    justify-content: space-between;
+}
+
+.last-element{
+    display: inline-flex;
+    align-items: center;
+}
+
+h4{
+    display: flex;
+    align-items: center;
+    color: hsl(215, 27%, 63%);;
+    
+    /* padding: 5px; */
+}
+
+h4>img{
+    margin-right: 6px;
+}
+
+.line{
+    border-bottom: 1px solid hsl(215, 32%, 27%);
+    display: block;
+}
+
+p{
+    word-spacing: 2px;
+    font-size: 18px;
+    color: hsl(215, 27%, 63%);
+    font-weight: 300;
+}
+
+p>span{
+    color: white;
+}

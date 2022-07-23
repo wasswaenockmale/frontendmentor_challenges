@@ -18,6 +18,7 @@ main{
     align-items: center;
     justify-content: center;
     /*Inserting a box-shadow to the card.*/
+    box-shadow: 0px 2px 10px hsl(217, 54%, 11%);
 }
 
 .image-equilibrium{

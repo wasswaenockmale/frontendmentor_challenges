@@ -6,7 +6,7 @@
       justify-content: center;
       align-items: center;
       height: 100vh;
-      padding: 90px;
+      /* padding: 90px; -> This is what was causing the scroll on the screen.*/
     }
     .container{
       /* display: inline-flex;

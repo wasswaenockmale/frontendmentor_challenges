@@ -17,6 +17,7 @@ body{
     display: flex;
     flex-direction: column;
     border-radius: 15px;
+    box-shadow: 0px 10px 1px hsl(225, 100%, 94%);
     /* border: 2px solid red; */
 }
 

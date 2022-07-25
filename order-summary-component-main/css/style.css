@@ -94,3 +94,10 @@ h1{
     font-weight: 900;
 }
 
+/*Adding the media queries for the mobile design*/
+@media (max-width:375px){
+    /*Changing the background image of the body when the screen width is at 375px and below*/
+    body{
+        background-image: url(/images/pattern-background-mobile.svg);
+    }
+}

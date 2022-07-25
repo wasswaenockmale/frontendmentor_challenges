@@ -1,2 +1,12 @@
 .attribution { font-size: 11px; text-align: center; }
 .attribution a { color: hsl(228, 45%, 44%); }
+
+body{
+    background:   hsl(225, 100%, 94%);
+    background-image: url(/images/pattern-background-desktop.svg);
+    background-repeat: no-repeat;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

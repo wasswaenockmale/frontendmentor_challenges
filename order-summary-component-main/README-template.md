@@ -56,7 +56,6 @@ CSS Grid, background styling, Flexbox, animations and transition
 - Frontend Mentor - [@wasswaenockmale](https://www.frontendmentor.io/profile/wasswaenockmale)
 - Twitter - [@wasswaenockmale](https://www.twitter.com/wasswaenockmale)
 
-
 ## Acknowledgments
 
 Friends and Family for always supportting me in my journey to becoming a Full Stack developer.

@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github link](https://github.com/wasswaenockmale/frontendmentor_challenges/tree/master/order-summary-component-main)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [vercel.app link](https://order-summary-component-main-six-theta.vercel.app/)
 
 ## My process
 

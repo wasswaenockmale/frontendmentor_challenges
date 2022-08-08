@@ -1,0 +1,54 @@
+body{
+    height: 100vh;
+    background-color: hsl(185, 75%, 39%);
+    background-image: url("../images/bg-pattern-top.svg") top left no-repeat,url("/images/bg-pattern-bottom.svg") bottom right no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container{
+    border-radius: 10px;
+    width: 400px;
+    height: 500px;
+    /* background-image: url(); */
+    background-color: white;
+}
+
+.follow-likes-photos{
+    display: flex;
+    flex-direction: row;
+    width: 400px;
+    justify-content: space-around;
+}
+
+/* .follow .likes .photos{
+    // display: flex; 
+    //flex-direction: column; 
+} */
+
+h4{
+    font-size: 25px;
+    font-weight: 700;
+}
+
+p{
+    font-size: 10px;
+}
+
+.image-victor{
+    border-radius: 50%;
+    border: 5px solid white;
+}
+
+.bubble-section{
+    width: 400px;
+    height: 150px;
+    /* background-color: hsl(185, 75%, 45%) */
+    background-image: cross-fade(url("/images/bg-pattern-bottom.svg"), url("/images/bg-pattern-top.svg"), 15%);
+    background-repeat: repeat;
+    background-blend-mode: lighten;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px 10px;
+    background-size: 20px;
+}

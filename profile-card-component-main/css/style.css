@@ -66,10 +66,21 @@ p{
     font-size: 0.5em;
     letter-spacing: 0.2em;
 }
+
+.lodon{
+    color:hsl(227, 10%, 46%);
+    font-size: 1.1em;
+}
 hr{
     width: 100%;
 }
+.victor{
+    font-size: 1.2em;
+}
 
+.grey{
+    color: hsl(227, 10%, 46%);
+}
 @media (max-width: 375px){
     .container{
         width: 90%;

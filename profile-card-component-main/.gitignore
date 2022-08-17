@@ -15,3 +15,9 @@
 .DS_Store
 
 .prettierignore
+
+##############################################################################
+## Avoid uploading the README-template.md file and the style-guide.md file  ##
+##############################################################################
+.README-template.md
+.style-guide.md

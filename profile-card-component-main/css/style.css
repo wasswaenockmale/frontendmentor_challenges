@@ -31,6 +31,7 @@ h4{
     font-family: 'Kumbh Sans', sans-serif;
     font-weight: 700;
     text-align: center;
+    opacity: 0.82;
 }
 
 p{
@@ -76,6 +77,7 @@ p{
 }
 hr{
     width: 100%;
+    opacity: 0.2;
 }
 .victor{
     font-size: 1.2em;

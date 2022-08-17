@@ -26,11 +26,6 @@ body{
     z-index: 3;
 }
 
-/* .follow .likes .photos{
-    // display: flex; 
-    //flex-direction: column; 
-} */
-
 h4{
     font-size: 25px;
     font-weight: 700;
@@ -46,6 +41,7 @@ p{
     border: 5px solid white;
     width: 100px;
     height: 100px;
+    margin-top: -50px;
 }
 
 .image-section{

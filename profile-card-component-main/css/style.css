@@ -63,3 +63,6 @@ p{
     color:  hsl(227, 10%, 46%);
     font-size: 18px;
 }
+hr{
+    width: 400px;
+}

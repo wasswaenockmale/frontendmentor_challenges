@@ -28,12 +28,15 @@ body{
 
 h4{
     font-size: 1.1em;
+    font-family: 'Kumbh Sans', sans-serif;
     font-weight: 700;
     text-align: center;
 }
 
 p{
     font-size: 0.5em;
+    font-family: 'Kumbh Sans', sans-serif;
+    font-weight: 400;
 }
 
 .image-victor{
@@ -41,7 +44,7 @@ p{
     border: 5px solid white;
     width: 22%;
     height: 80px;
-    margin-top: -45px;
+    margin-top: -40px;
 }
 
 .image-section{
